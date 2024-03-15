@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @AwakeMind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# AwakeMind Tech
 
-<!---
-AwakeMind/AwakeMind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Us
+
+AwakeMind Tech is a leading provider of embedded system solutions. We specialize in designing, developing, and manufacturing embedded systems for a variety of industries.
+
+## Services
+
+### Design & Development
+
+Our team of experienced engineers can design and develop embedded systems tailored to your specific needs.
+
+### Manufacturing
+
+We offer end-to-end manufacturing solutions, from prototyping to mass production.
+
+### Support & Maintenance
+
+Our support team is available 24/7 to assist with any issues or queries. We also provide regular maintenance and updates to ensure your systems are always up-to-date.
+
+## Industries We Serve
+
+- Automotive
+- Healthcare
+- Industrial Automation
+- Consumer Electronics
+
+## Contact Us
+
+For more information about our services, please contact us at:
+
+- Email: info@awakemindtech.com
+- Phone: +1-234-567-8901
