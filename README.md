@@ -30,4 +30,4 @@ Our support team is available 24/7 to assist with any issues or queries. We also
 For more information about our services, please contact us at:
 
 - Email: info@awakemindtech.com
-- Phone: +1-234-567-8901
+- Phone: 
