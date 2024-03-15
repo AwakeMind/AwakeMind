@@ -2,7 +2,7 @@
 
 ## About Us
 
-AwakeMind Tech is a leading provider of embedded system solutions. We specialize in designing, developing, and manufacturing embedded systems for a variety of industries.
+AwakeMind Tech is a leading provider of embedded system solutions. We specialize in designing, developing, and consulting on embedded systems for a variety of industries.
 
 ## Services
 
