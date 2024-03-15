@@ -16,7 +16,7 @@ We offer end-to-end manufacturing solutions, from prototyping to mass production
 
 ### Support & Maintenance
 
-Our support team is available 24/7 to assist with any issues or queries. We also provide regular maintenance and updates to ensure your systems are always up-to-date.
+Our support team is available to assist with any issues or queries. We also provide regular maintenance and updates to ensure your systems are always up-to-date.
 
 ## Industries We Serve
 
